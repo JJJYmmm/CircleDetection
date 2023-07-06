@@ -19,4 +19,4 @@
 
 ![image-20230706191741408](https://github.com/JJJYmmm/CircleDetection/blob/master/concat_result.jpg)
 
-![image-20230706192044307](https://github.com/JJJYmmm/CircleDetection/blob/master/concat_result.jpg)
+![image-20230706192044307](https://github.com/JJJYmmm/CircleDetection/blob/master/concat_result2.jpg)
