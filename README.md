@@ -17,6 +17,6 @@
 
 左侧为canny算法结果，右侧为hough检测出的圆(原图上画出)
 
-![image-20230706191741408](https://typora-img-1311051873.cos.ap-beijing.myqcloud.com/typora/202307061954158.png)
+![image-20230706191741408](https://github.com/JJJYmmm/CircleDetection/blob/master/concat_result.jpg)
 
 ![image-20230706192044307](https://github.com/JJJYmmm/CircleDetection/blob/master/concat_result.jpg)
